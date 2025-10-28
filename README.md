@@ -5,7 +5,7 @@
 - 🔭 **Currently** building websites and interactive projects
 - 🌱 **Learning** Python, automation, and AI
 
-**Languages:** Python, JavaScript, HTML, CSS, C++, SQL, Java, Assembly
+**Languages:** Python, JavaScript, HTML, CSS, C++, SQL, Java, Assembly <br>
 **Passions:** Web Development, UI/UX Design
 
 I'm captivated by the magic of programming—where mere letters and numbers transform into living, breathing digital experiences. There's poetry in writing syntax that awakens functionality, crafting elegant solutions from abstract thought, and building bridges between imagination and interaction.
