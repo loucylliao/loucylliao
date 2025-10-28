@@ -1,4 +1,4 @@
-### [![icon](https://graphic.neocities.org/tumblr_inline_o14khuLgjY1tjuw11_500.gif)] Hello!
+### ![icon](https://graphic.neocities.org/tumblr_lngplwQozp1qfel73.gif) Hello!
 
 **I'm [Loucyl](https://loucylliao.github.io/loucyl/) aspiring Software Engineer**
 
