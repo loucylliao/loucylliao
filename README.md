@@ -12,5 +12,5 @@ I'm captivated by the magic of programming—where mere letters and numbers tran
 
 Outside of coding, I explore the human experience through writing—delving into our peculiar tendencies, life's beautiful ironies, and how the world reflects upon the soul.
 
-# Let's connect!
+#### Let's connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/loucylliao)
