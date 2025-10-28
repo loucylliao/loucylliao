@@ -1,9 +1,10 @@
-### [![Portfolio](https://github.com/loucylliao/loucyl/blob/main/icon/shooting-star.png?raw=true)](https://loucylliao.github.io/loucyl/) Hello!
+### [![icon](https://graphic.neocities.org/tumblr_inline_o14khuLgjY1tjuw11_500.gif)] Hello!
 
 **I'm [Loucyl](https://loucylliao.github.io/loucyl/) aspiring Software Engineer**
 
 - 🔭 **Currently** building websites and interactive projects
 - 🌱 **Learning** Python, automation, and AI
+
 **Languages:** Python, JavaScript, HTML, CSS, C++, SQL, Java, Assembly
 **Passions:** Web Development, UI/UX Design
 
