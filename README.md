@@ -1,22 +1,17 @@
-### 👋 Hello! I'm Loucyl Liao
+### [![Portfolio](https://github.com/loucylliao/loucyl/blob/main/icon/shooting-star.png?raw=true)](https://loucylliao.github.io/loucyl/) Hello!
 
-👾 **Aspiring Software Engineer | Python Developer | Creative Storyteller**
+**I'm [Loucyl](https://loucylliao.github.io/loucyl/) aspiring Software Engineer**
 
-- 🔭 **Building:** Enhanced websites and interactive projects
-- 🌱 **Learning:** Python, automation, and AI
-- 🪶 **Writing:** Technical insights and creative coding journeys
-- ✉️ **Reach me:** liaoloucyl@gmail.com
-
-### 🛠️ Technical Landscape
+- 🔭 **Currently** building websites and interactive projects
+- 🌱 **Learning** Python, automation, and AI
 **Languages:** Python, JavaScript, HTML, CSS, C++, SQL, Java, Assembly
-**Tools:** GitHub, VS Code, Oracle
 **Passions:** Web Development, UI/UX Design
 
-### ⭐️ My Digital Philosophy
 I'm captivated by the magic of programming—where mere letters and numbers transform into living, breathing digital experiences. There's poetry in writing syntax that awakens functionality, crafting elegant solutions from abstract thought, and building bridges between imagination and interaction.
+
+Outside of coding, I explore the human experience through writing—delving into our peculiar tendencies, life's beautiful ironies, and how the world reflects upon the soul.
 
 ---
 
-### 📫 Let's Connect
+### Let's connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/loucylliao)
-[![Portfolio](https://github.com/loucylliao/loucyl/blob/main/icon/shooting-star.png?raw=true)](https://loucylliao.github.io/loucyl/)
