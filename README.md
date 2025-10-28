@@ -1,6 +1,6 @@
-### ![icon](https://graphic.neocities.org/tumblr_lngplwQozp1qfel73.gif) Hello!
+###Hello! ![icon](https://graphic.neocities.org/tumblr_lngplwQozp1qfel73.gif)
 
-**I'm [Loucyl](https://loucylliao.github.io/loucyl/) aspiring Software Engineer**
+**I'm [Loucyl](https://loucylliao.github.io/loucyl/) aspiring Software Engineer.**
 
 - 🔭 **Currently** building websites and interactive projects
 - 🌱 **Learning** Python, automation, and AI
