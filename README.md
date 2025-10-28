@@ -3,7 +3,7 @@
 **I'm [Loucyl](https://loucylliao.github.io/loucyl/) aspiring Software Engineer.**
 
 - 🔭 **Currently** building websites and interactive projects
-- 🌱 **Learning** Python, automation, and AI
+- 🌱 **Learning** Python, Automation, and AI
 
 **Languages:** Python, JavaScript, HTML, CSS, C++, SQL, Java, Assembly <br>
 **Passions:** Web Development, UI/UX Design
