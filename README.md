@@ -18,6 +18,5 @@ I'm captivated by the magic of programming—where mere letters and numbers tran
 ---
 
 ### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-loucylliao-blue?style=flat&logo=linkedin)](https://linkedin.com/in/loucylliao)
-[![Email](https://img.shields.io/badge/Email-liaoloucyl@gmail.com-red?style=flat&logo=gmail)](mailto:liaoloucyl@gmail.com)
+[![LinkedIn](https://freelogopng.com/images/all_img/1656958733linkedin-logo-png.png)](https://linkedin.com/in/loucylliao)
 [![Portfolio](https://github.com/loucylliao/loucyl/blob/main/icon/shooting-star.png?raw=true)](https://loucylliao.github.io/loucyl/)
