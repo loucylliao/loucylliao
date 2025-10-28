@@ -18,8 +18,5 @@ I'm captivated by the magic of programming—where mere letters and numbers tran
 ---
 
 ### 📫 Let's Connect
-### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-loucylliao-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/loucylliao)
-[![Portfolio](https://img.shields.io/badge/Portfolio-My_World-4DC47F?style=for-the-badge&logo=atom&logoColor=white)](https://loucylliao.github.io/loucyl/)
-
-<img src="https://github.com/loucylliao/loucyl/blob/main/icon/shooting-star.png?raw=true" alt="Shooting Star" width="20" style="vertical-align: middle;"> **Exploring new possibilities**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/loucylliao)
+[![Portfolio](https://github.com/loucylliao/loucyl/blob/main/icon/shooting-star.png?raw=true)](https://loucylliao.github.io/loucyl/)
