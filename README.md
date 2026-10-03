@@ -12,7 +12,7 @@ I bake with <img src="https://graphic.neocities.org/emlan_dessert_27.png" width=
 
 In my free time, I'm nerdy about esotericism, human behavior, literature, arts, music, and — oh well, games.
 <br><br>
-[![visit my portfolio](https://img.shields.io/badge/%E2%9D%A4_visit_my_portfolio-d0afc0?style=for-the-badge&labelColor=d0afc0&color=d0afc0)](https://loucylliao.github.io/loucylliao/)
+[![visit my portfolio](https://img.shields.io/badge/%E2%9D%A4_visit_my_portfolio-d0afc0?style=for-the-badge&labelColor=d0afc0&color=d0afc0)](https://loucylliao.github.io/loucyl/)
 
 <img src="https://graphic.neocities.org/tumblr_mcx23uqsM81qk1or3.gif" width="22" alt=""> Let's chat!
 
