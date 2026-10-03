@@ -2,7 +2,7 @@
 
 **I'm Loucyl, <em>a self-taught developer and designer, a work in progress.</em>**
 
-I often dream up ideas, <img src="https://graphic.neocities.org/mushroombunny.gif" width="28" alt=""> craft websites and software, learn engineering, and 3D model for the cool stuffs.
+I often dream of ideas, <img src="https://graphic.neocities.org/mushroombunny.gif" width="28" alt=""> craft websites and software, learn engineering, and 3D model for the cool stuffs.
 
 > <em> I like the little magic of programming — how a bunch of letters and numbers that look like absolutely nothing can eventually become something you can actually experience. <img src="https://graphic.neocities.org/shootingstar.gif" width="24" alt=""></em>
 
