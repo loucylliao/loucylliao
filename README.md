@@ -10,6 +10,14 @@ Lately, I'm learning <img src="https://graphic.neocities.org/Hase_614.gif" width
 
 I bake with <img src="https://graphic.neocities.org/emlan_dessert_27.png" width="28" alt=""> `Python` `HTML` `CSS` `JavaScript` `PHP` `MySQL` `AI` `Blender`
 
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/loucylliao/loucylliao/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/loucylliao/loucylliao/output/github-snake.svg" />
+    <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/loucylliao/loucylliao/output/github-snake.svg" width="560" />
+  </picture>
+</div>
+
 In my free time, I'm nerdy about esotericism, human behavior, literature, arts, music, and — oh well, games.
 <br><br>
 [![visit my portfolio](https://img.shields.io/badge/%E2%9D%A4_visit_my_portfolio-d0afc0?style=for-the-badge&labelColor=d0afc0&color=d0afc0)](https://loucyl.space)
